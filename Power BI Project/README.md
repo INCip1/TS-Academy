@@ -36,7 +36,7 @@ Excel (for initial exploration), Power BI (Power Query for data transformation, 
 
 ## Dashboard
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](3. Dashboard.png)
 
 ## Recommendation
 Prioritize Apple product marketing to middle-income customers in Q1 to maximize both customer acquisition and revenue.
