@@ -36,5 +36,5 @@ Describe what you did in Excel to make the data usable. Even simple steps count:
 - May recorded the lowest number of customers – only 18 customers, compared to ana average of 520 in the preceding months.
 
 ## Dashboard Snapshot
-[Excel Analysis Overview](Sales_Analysis_Dashboard.png)  
+![Excel Analysis Overview](Sales_Analysis_Dashboard.png)  
 
